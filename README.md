@@ -1,3 +1,11 @@
+# Album Manager
+
+This is a react application which manages the albums that are fetched from JSONPlaceholder API.
+It consist of features like creating, updating and deleting Albums.
+However these three API calls are dummy and does not have real effect but we have made the respective http calls and tested in the browser console.
+
+Try it [here](https://album-manager01.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
